@@ -26,8 +26,7 @@ Course to use:
 
 **Python Developer**
 
-<img width="633" height="677" alt="Screenshot 2026-03-10 at 9 42 33 PM" src="https://github.com/user-attachments/assets/1a95d8ef-c17f-48f9-b281-4a51842f51fa" />
-
+<img width="451" height="496" alt="Screenshot 2026-03-10 at 10 31 30 PM" src="https://github.com/user-attachments/assets/56d6e6fa-9a00-46c1-a8f7-a83ec99a48ad" />
 
 ---
 
@@ -64,13 +63,13 @@ You must submit **two screenshots** as proof of your progress.
 
 Take a screenshot showing:
 
-- Your **username at the top**
+- Your **name at the top**
 - The **Python Developer course**
 - The **progress bar showing your progress percentage**
 
 Example:
 
-<img width="255" height="518" alt="Course Progress Example" src="https://github.com/user-attachments/assets/a0cc2170-1019-42b8-be0b-3adab548d994" />
+<img width="255" height="518" alt="Lesson Progress Example" src="https://github.com/user-attachments/assets/2a822f16-2a0d-45f3-b10e-e51335aec68c" />
 
 ---
 
@@ -82,9 +81,7 @@ Take a screenshot of the course lesson list showing that the **last completed le
 
 Example:
 
-![](images/lesson_example.png)
-
-<img width="255" height="518" alt="Lesson Progress Example" src="https://github.com/user-attachments/assets/2a822f16-2a0d-45f3-b10e-e51335aec68c" />
+<img width="255" height="518" alt="Course Progress Example" src="https://github.com/user-attachments/assets/a0cc2170-1019-42b8-be0b-3adab548d994" />
 
 
 ---
@@ -116,7 +113,7 @@ Submit the following:
 1. Course Progress Screenshot  
 2. Lesson Progress Screenshot  
 
-Upload them to the **assignment submission area**.
+Upload them to the **project submission area in Blackboard**.
 
 ---
 
