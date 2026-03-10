@@ -3,7 +3,7 @@
 
 This project is designed as a **practice activity** to reinforce the programming concepts we cover in class.
 
-The goal is **not to learn Python from scratch**, since we will study these topics during lectures and labs. Instead, this activity helps you:
+This activity helps you:
 
 - Practice programming regularly
 - Strengthen your understanding of Python concepts
@@ -33,8 +33,8 @@ Course to use:
 # Important Notes
 
 - **Do NOT subscribe to sololearn PRO**
-- **Skip any lesson marked PRO**
-- If you make mistakes and run out of hearts ❤️, simply **wait until they refill**
+- **You can Skip any lesson marked PRO**
+- If you make mistakes and run out of hearts ❤️, simply **wait few hours until they refill**
 - The purpose is **practice**, not speed
 
 ---
@@ -113,7 +113,7 @@ Submit the following:
 1. Course Progress Screenshot  
 2. Lesson Progress Screenshot  
 
-Upload them to the **project submission area in Blackboard**.
+Upload them to the **project submission area in Blackboard before 18/5/2026**.
 
 ---
 
